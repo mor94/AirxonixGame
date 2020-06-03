@@ -1,0 +1,66 @@
+﻿  WreckingBall.cpp
+  TimePrize.cpp
+  RegularBall.cpp
+  PrizeFactory.cpp
+  Prize.cpp
+  PoisonPrize.cpp
+  Object.cpp
+  NewGame.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  MyFactory.cpp
+  Menu.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Media.cpp
+  main.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\main.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Line.cpp
+  LifePrize.cpp
+  Level.cpp
+  HighScore.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Help.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\help.cpp(15): warning C4101: 'event': unreferenced local variable
+  Helicopter.cpp
+  Hedgehog.cpp
+  Game.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(161): warning C4101: 'event': unreferenced local variable
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(203): warning C4101: 'i': unreferenced local variable
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(233): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(234): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(386): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(387): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(406): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(407): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+c:\users\mor\desktop\projects\airxonix\airxonix\game.cpp(103): warning C4715: 'Game::run': not all control paths return a value
+c:\users\mor\desktop\projects\airxonix\airxonix\menu.cpp(88): warning C4715: 'Menu::getOptionFromUser': not all control paths return a value
+  Compiling...
+  FullCell.cpp
+  Exit.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Enemy.cpp
+  EmptyCell.cpp
+  DynamicObject.cpp
+  Collision.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mor\desktop\projects\airxonix\airxonix\game.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  CoinPrize.cpp
+  CloseCell.cpp
+  CellMode.cpp
+  BoostPrize.cpp
+  Board.cpp
+c:\users\mor\desktop\projects\airxonix\airxonix\board.cpp(109): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Ball.cpp
+  Generating Code...
+     Creating library C:\Users\Mor\Desktop\projects\Airxonix\x64\Debug\airxonix.lib and object C:\Users\Mor\Desktop\projects\Airxonix\x64\Debug\airxonix.exp
+  airxonix.vcxproj -> C:\Users\Mor\Desktop\projects\Airxonix\x64\Debug\airxonix.exe
